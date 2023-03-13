@@ -1,7 +1,9 @@
 body {
-    background:plum 
-
+    background:plum
 }
-body{
-<img src="https://pngtree.com/freebackground/technology-background-binary-computer-code-vector-design_1264148.html />
+
+.hero{
+    background-image: url("pexels-danny-meneses-943096.jpg");
+    color:black
+
 }
